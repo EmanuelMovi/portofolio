@@ -129,6 +129,7 @@ span.navbar-text {
     line-height: 1;
     border: 1px solid rgba(255, 255, 255, 0.5);
 }
+
 .social-icon a::before {
     content: "";
     width: 42px;
@@ -273,6 +274,13 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   display: flex;
   align-items: center;
 }
+.logo-emanuel{
+width: 150px;
+height: 84px;
+}
+
+
+
 .banner button svg {
   font-size: 25px;
   margin-left: 10px;
